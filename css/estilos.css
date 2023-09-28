@@ -13,6 +13,15 @@
     line-height: 100px;
 }
 
+.contenedorLogo{
+    width: 100%;
+    height: 100px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    line-height: 100px;
+}
+
 .main{
     width: 100%;
     height: 500px;
